@@ -4,7 +4,7 @@ A test project in flutter to list movies
 ******* ¿Cómo ejecutar la aplicación? *******
 
 1. Clona el repositorio en tu entorno y carpeta deseados:
-     git clone 
+     git clone https://github.com/sitmorelia/randomlist.git
 
 2. Navega en la consola al directorio del proyecto con el comando cd
 
